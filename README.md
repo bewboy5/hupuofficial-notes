@@ -1,2 +1,14 @@
 # hupuofficial-notes
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
